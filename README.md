@@ -1,0 +1,1 @@
+# is-mase-npm-package
